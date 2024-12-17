@@ -1,0 +1,30 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Intergration",
+    "fix-sidenav",
+    "ft-saving-management",
+    "fx-dashboard",
+    "loans",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "Intergration": "main",
+    "fix-sidenav": "main",
+    "ft-saving-management": "main",
+    "fx-dashboard": "main",
+    "loans": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "Intergration",
+    "fix-sidenav",
+    "ft-saving-management",
+    "fx-dashboard",
+    "loans",
+    "origin"
+  ]
+}
